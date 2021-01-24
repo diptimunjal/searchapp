@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/static/js/main.f0c70748.chunk.js",
-    "main.js.map": "/static/js/main.f0c70748.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d089b08c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d089b08c.js.map",
-    "static/js/2.16dd75f9.chunk.js": "/static/js/2.16dd75f9.chunk.js",
-    "static/js/2.16dd75f9.chunk.js.map": "/static/js/2.16dd75f9.chunk.js.map",
-    "static/js/3.a35f5fcf.chunk.js": "/static/js/3.a35f5fcf.chunk.js",
-    "static/js/3.a35f5fcf.chunk.js.map": "/static/js/3.a35f5fcf.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.16dd75f9.chunk.js.LICENSE.txt": "/static/js/2.16dd75f9.chunk.js.LICENSE.txt"
+    "main.css": "https://diptimunjal.github.io/searchapp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "https://diptimunjal.github.io/searchapp/static/js/main.f0c70748.chunk.js",
+    "main.js.map": "https://diptimunjal.github.io/searchapp/static/js/main.f0c70748.chunk.js.map",
+    "runtime-main.js": "https://diptimunjal.github.io/searchapp/static/js/runtime-main.70371dfc.js",
+    "runtime-main.js.map": "https://diptimunjal.github.io/searchapp/static/js/runtime-main.70371dfc.js.map",
+    "static/js/2.16dd75f9.chunk.js": "https://diptimunjal.github.io/searchapp/static/js/2.16dd75f9.chunk.js",
+    "static/js/2.16dd75f9.chunk.js.map": "https://diptimunjal.github.io/searchapp/static/js/2.16dd75f9.chunk.js.map",
+    "static/js/3.a35f5fcf.chunk.js": "https://diptimunjal.github.io/searchapp/static/js/3.a35f5fcf.chunk.js",
+    "static/js/3.a35f5fcf.chunk.js.map": "https://diptimunjal.github.io/searchapp/static/js/3.a35f5fcf.chunk.js.map",
+    "index.html": "https://diptimunjal.github.io/searchapp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "https://diptimunjal.github.io/searchapp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.16dd75f9.chunk.js.LICENSE.txt": "https://diptimunjal.github.io/searchapp/static/js/2.16dd75f9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d089b08c.js",
+    "static/js/runtime-main.70371dfc.js",
     "static/js/2.16dd75f9.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.f0c70748.chunk.js"
